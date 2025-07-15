@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Repos/HW07/HW07/Content/Map/Default.umap",
+				"C:/Repos/HW07/HW07/Content/BP_PlayerCharacter.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IA_Jump.uasset",
+				"C:/Repos/HW07/HW07/Content/BP_CustomPlayerCharacter.uasset",
+				"C:/Repos/HW07/HW07/Content/BP_HWGameMode.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IMC_Flying.uasset",
+				"C:/Repos/HW07/HW07/Content/BP_PlayerController.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IMC_Default.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IA_Roll.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IA_Fly.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IA_AltitudeControl.uasset",
+				"C:/Repos/HW07/HW07/Content/WBP.uasset",
+				"C:/Repos/HW07/HW07/Content/WBP_HUD.uasset",
+				"C:/Repos/HW07/HW07/Content/Input/IMC_Character.uasset"
+			]
+		}
+	]
+}
